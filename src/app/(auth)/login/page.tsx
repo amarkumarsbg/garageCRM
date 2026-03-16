@@ -18,7 +18,7 @@ import {
 } from "lucide-react";
 
 export default function LoginPage() {
-  const [email, setEmail] = useState("rajesh@garagecrm.in");
+  const [email, setEmail] = useState("rajesh@primedetailers.in");
   const [password, setPassword] = useState("password");
   const [showPassword, setShowPassword] = useState(false);
   const [error, setError] = useState("");
@@ -63,7 +63,7 @@ export default function LoginPage() {
               <Wrench className="w-5 h-5" />
             </div>
             <span className="text-lg font-semibold tracking-tight">
-              GarageCRM
+              Prime Detailers
             </span>
           </div>
 
@@ -115,7 +115,7 @@ export default function LoginPage() {
           </div>
 
           <p className="text-blue-200/50 text-sm">
-            &copy; {new Date().getFullYear()} GarageCRM. All rights reserved.
+            &copy; {new Date().getFullYear()} Prime Detailers. All rights reserved.
           </p>
         </div>
       </div>
@@ -129,7 +129,7 @@ export default function LoginPage() {
               <Wrench className="w-5 h-5 text-primary-foreground" />
             </div>
             <span className="text-lg font-semibold tracking-tight">
-              GarageCRM
+              Prime Detailers
             </span>
           </div>
 
@@ -150,7 +150,7 @@ export default function LoginPage() {
               <Input
                 id="email"
                 type="email"
-                placeholder="you@garagecrm.in"
+                placeholder="you@primedetailers.in"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 required
@@ -232,7 +232,7 @@ export default function LoginPage() {
                   Email
                 </span>
                 <code className="text-xs bg-white dark:bg-slate-800 px-2 py-0.5 rounded-md border font-mono">
-                  rajesh@garagecrm.in
+                  rajesh@primedetailers.in
                 </code>
               </div>
               <div className="flex items-center gap-2">
@@ -257,7 +257,7 @@ export default function LoginPage() {
           </p>
 
           <p className="text-center text-xs text-muted-foreground/60 mt-6 lg:hidden">
-            GarageCRM v1.0 &middot; Internal Use Only
+            Prime Detailers v1.0 &middot; Internal Use Only
           </p>
         </div>
       </div>

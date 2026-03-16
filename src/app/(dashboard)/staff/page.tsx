@@ -122,7 +122,7 @@ export default function StaffPage() {
                   </div>
                   <div className="space-y-2">
                     <Label htmlFor="email">Email</Label>
-                    <Input id="email" type="email" placeholder="email@garagecrm.in" required />
+                    <Input id="email" type="email" placeholder="email@primedetailers.in" required />
                   </div>
                   <div className="space-y-2">
                     <Label htmlFor="phone">Phone</Label>

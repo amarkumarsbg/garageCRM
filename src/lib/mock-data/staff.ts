@@ -4,7 +4,7 @@ export const staff: User[] = [
   {
     id: "usr-001",
     name: "Rajesh Kumar",
-    email: "rajesh.kumar@garagecrm.in",
+    email: "rajesh.kumar@primedetailers.in",
     phone: "+91-9876543210",
     role: "ADMIN",
     branchId: "br-001",
@@ -13,7 +13,7 @@ export const staff: User[] = [
   {
     id: "usr-002",
     name: "Priya Sharma",
-    email: "priya.sharma@garagecrm.in",
+    email: "priya.sharma@primedetailers.in",
     phone: "+91-9876543211",
     role: "ADMIN",
     branchId: "br-001",
@@ -22,7 +22,7 @@ export const staff: User[] = [
   {
     id: "usr-003",
     name: "Suresh Reddy",
-    email: "suresh.reddy@garagecrm.in",
+    email: "suresh.reddy@primedetailers.in",
     phone: "+91-9876543212",
     role: "MANAGER",
     branchId: "br-001",
@@ -31,7 +31,7 @@ export const staff: User[] = [
   {
     id: "usr-004",
     name: "Anitha Nair",
-    email: "anitha.nair@garagecrm.in",
+    email: "anitha.nair@primedetailers.in",
     phone: "+91-9876543213",
     role: "RECEPTIONIST",
     branchId: "br-001",
@@ -40,7 +40,7 @@ export const staff: User[] = [
   {
     id: "usr-005",
     name: "Vikram Singh",
-    email: "vikram.singh@garagecrm.in",
+    email: "vikram.singh@primedetailers.in",
     phone: "+91-9876543214",
     role: "RECEPTIONIST",
     branchId: "br-002",
@@ -49,7 +49,7 @@ export const staff: User[] = [
   {
     id: "usr-006",
     name: "Murugan P",
-    email: "murugan.p@garagecrm.in",
+    email: "murugan.p@primedetailers.in",
     phone: "+91-9876543215",
     role: "MECHANIC",
     branchId: "br-001",
@@ -58,7 +58,7 @@ export const staff: User[] = [
   {
     id: "usr-007",
     name: "Ramesh Gowda",
-    email: "ramesh.gowda@garagecrm.in",
+    email: "ramesh.gowda@primedetailers.in",
     phone: "+91-9876543216",
     role: "MECHANIC",
     branchId: "br-001",
@@ -67,7 +67,7 @@ export const staff: User[] = [
   {
     id: "usr-008",
     name: "Karthik Iyer",
-    email: "karthik.iyer@garagecrm.in",
+    email: "karthik.iyer@primedetailers.in",
     phone: "+91-9876543217",
     role: "MECHANIC",
     branchId: "br-001",
@@ -76,7 +76,7 @@ export const staff: User[] = [
   {
     id: "usr-009",
     name: "Venkatesh M",
-    email: "venkatesh.m@garagecrm.in",
+    email: "venkatesh.m@primedetailers.in",
     phone: "+91-9876543218",
     role: "MECHANIC",
     branchId: "br-002",
@@ -85,7 +85,7 @@ export const staff: User[] = [
   {
     id: "usr-010",
     name: "Prakash Rao",
-    email: "prakash.rao@garagecrm.in",
+    email: "prakash.rao@primedetailers.in",
     phone: "+91-9876543219",
     role: "MECHANIC",
     branchId: "br-002",

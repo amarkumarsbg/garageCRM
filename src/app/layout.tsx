@@ -10,8 +10,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "GarageCRM - Car Service Management",
-  description: "Admin CRM portal for car service business management",
+  title: "Prime Detailers - Car Service Management",
+  description: "Admin CRM portal for car detailing and service management",
 };
 
 export default function RootLayout({

@@ -111,7 +111,7 @@ const mockNotifications: Notification[] = [
     id: "n-009",
     type: "system",
     title: "System Update",
-    message: "GarageCRM v1.1 is now available with new billing features.",
+    message: "Prime Detailers v1.1 is now available with new billing features.",
     read: true,
     createdAt: hours(8),
   },

@@ -51,7 +51,7 @@ export default function ForgotPasswordPage() {
               <Wrench className="w-5 h-5" />
             </div>
             <span className="text-lg font-semibold tracking-tight">
-              GarageCRM
+              Prime Detailers
             </span>
           </div>
 
@@ -103,7 +103,7 @@ export default function ForgotPasswordPage() {
           </div>
 
           <p className="text-emerald-200/50 text-sm">
-            &copy; {new Date().getFullYear()} GarageCRM. All rights reserved.
+            &copy; {new Date().getFullYear()} Prime Detailers. All rights reserved.
           </p>
         </div>
       </div>
@@ -117,7 +117,7 @@ export default function ForgotPasswordPage() {
               <Wrench className="w-5 h-5 text-primary-foreground" />
             </div>
             <span className="text-lg font-semibold tracking-tight">
-              GarageCRM
+              Prime Detailers
             </span>
           </div>
 
@@ -153,7 +153,7 @@ export default function ForgotPasswordPage() {
                   <Input
                     id="email"
                     type="email"
-                    placeholder="you@garagecrm.in"
+                    placeholder="you@primedetailers.in"
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
                     required
@@ -225,7 +225,7 @@ export default function ForgotPasswordPage() {
           )}
 
           <p className="text-center text-xs text-muted-foreground/60 mt-10 lg:hidden">
-            GarageCRM v1.0 &middot; Internal Use Only
+            Prime Detailers v1.0 &middot; Internal Use Only
           </p>
         </div>
       </div>

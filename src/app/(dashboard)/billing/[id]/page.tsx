@@ -161,13 +161,13 @@ tbody td:last-child { font-weight: 600; color: #1a1a2e; }
 </style></head><body>
 <div class="brand-bar"></div>
 <div class="page">
-  <div class="header">
+    <div class="header">
     <div>
-      <div class="logo">Garage<span>CRM</span></div>
+      <div class="logo">Prime<span>Detailers</span></div>
       <div class="company-info">
         80 Feet Road, Koramangala 4th Block<br>
         Bengaluru, Karnataka 560034<br>
-        +91-80-4123-4567 &bull; hello@garagecrm.in<br>
+        +91-80-4123-4567 &bull; hello@primedetailers.in<br>
         GSTIN: 29AABCT1234F1ZP
       </div>
     </div>
@@ -231,9 +231,9 @@ tbody td:last-child { font-weight: 600; color: #1a1a2e; }
   </div>` : ""}
 
   <div class="footer">
-    <div class="footer-thanks">Thank you for choosing GarageCRM!</div>
-    <div class="footer-sub">For questions about this invoice, contact us at hello@garagecrm.in</div>
-    <div class="footer-brand">Powered by GarageCRM &bull; Service Management Platform</div>
+    <div class="footer-thanks">Thank you for choosing Prime Detailers!</div>
+    <div class="footer-sub">For questions about this invoice, contact us at hello@primedetailers.in</div>
+    <div class="footer-brand">Powered by Prime Detailers &bull; Service Management Platform</div>
   </div>
 </div>
 <script>window.onload=function(){window.print();}</script>

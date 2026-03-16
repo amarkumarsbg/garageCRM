@@ -81,12 +81,12 @@ export default function SignupPage() {
 
         {/* Content */}
         <div className="relative z-10 flex flex-col justify-between p-12 text-white w-full">
-          <div className="flex items-center gap-3">
+            <div className="flex items-center gap-3">
             <div className="flex items-center justify-center w-10 h-10 rounded-xl bg-white/15 backdrop-blur-sm">
               <Wrench className="w-5 h-5" />
             </div>
             <span className="text-lg font-semibold tracking-tight">
-              GarageCRM
+              Prime Detailers
             </span>
           </div>
 
@@ -97,7 +97,7 @@ export default function SignupPage() {
               <span className="text-purple-200">your garage today.</span>
             </h2>
             <p className="text-purple-100/80 text-lg leading-relaxed">
-              Join hundreds of garage owners who trust GarageCRM to run their
+              Join hundreds of detailers and garage owners who trust Prime Detailers to run their
               business efficiently.
             </p>
 
@@ -138,7 +138,7 @@ export default function SignupPage() {
           </div>
 
           <p className="text-purple-200/50 text-sm">
-            &copy; {new Date().getFullYear()} GarageCRM. All rights reserved.
+            &copy; {new Date().getFullYear()} Prime Detailers. All rights reserved.
           </p>
         </div>
       </div>
@@ -152,7 +152,7 @@ export default function SignupPage() {
               <Wrench className="w-5 h-5 text-primary-foreground" />
             </div>
             <span className="text-lg font-semibold tracking-tight">
-              GarageCRM
+              Prime Detailers
             </span>
           </div>
 
@@ -204,7 +204,7 @@ export default function SignupPage() {
               <Input
                 id="email"
                 type="email"
-                placeholder="you@garagecrm.in"
+                placeholder="you@primedetailers.in"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 required
@@ -320,7 +320,7 @@ export default function SignupPage() {
           </p>
 
           <p className="text-center text-xs text-muted-foreground/60 mt-6 lg:hidden">
-            GarageCRM v1.0 &middot; Internal Use Only
+            Prime Detailers v1.0 &middot; Internal Use Only
           </p>
         </div>
       </div>

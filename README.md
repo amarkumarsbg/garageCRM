@@ -1,6 +1,6 @@
-# GarageCRM
+# Prime Detailers
 
-A modern garage/auto-service management platform built with Next.js, Tailwind CSS, and Zustand.
+A modern detailing and auto-service management platform built with Next.js, Tailwind CSS, and Zustand.
 
 ## Getting Started
 

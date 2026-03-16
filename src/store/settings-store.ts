@@ -12,9 +12,9 @@ interface SettingsState {
 }
 
 export const useSettingsStore = create<SettingsState>((set) => ({
-  businessName: "GarageCRM",
+  businessName: "Prime Detailers",
   businessPhone: "+91-80-4123-4567",
-  businessEmail: "hello@garagecrm.in",
+  businessEmail: "hello@primedetailers.in",
   businessAddress: "80 Feet Road, Koramangala 4th Block, Bengaluru 560034",
   gstin: "29AABCT1234F1ZP",
   setBusinessProfile: (profile) => set((state) => ({ ...state, ...profile })),

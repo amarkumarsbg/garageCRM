@@ -15,7 +15,7 @@ interface AuthState {
 const mockUser: User = {
   id: "USR-001",
   name: "Rajesh Kumar",
-  email: "rajesh@garagecrm.in",
+  email: "rajesh@primedetailers.in",
   phone: "+91 98765 43210",
   role: "ADMIN",
   branchId: "BR-001",
@@ -24,7 +24,7 @@ const mockUser: User = {
 
 const mockBranch: Branch = {
   id: "BR-001",
-  name: "GarageCRM - Koramangala",
+  name: "Prime Detailers - Koramangala",
   address: "123, 80 Feet Road, Koramangala, Bengaluru - 560034",
   phone: "+91 80 4567 8901",
   isActive: true,
